@@ -26,7 +26,8 @@ for (let i=0;i<pronoun.length;i++){
     } */
     }
     }
-    /* let domain = pronoun[Math.floor(Math.random() * 1)]+adj[0]+extension[Math.floor(Math.random() * 3)]; */
+    /* let domain = pronoun[Math.floor(Math.random() * 1)]+adj[Math.floor(Math.random() * 1)]+noun[Math.floor(Math.random() * 2)]+extension[Math.floor(Math.random() * 3)]; 
+    esto funciona, pero esta solo concatenando y arroja solo 1 vez x ejecucion, el ejercicio solicitaba recorrer todas las opciones */
 
     
     }
